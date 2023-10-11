@@ -45,10 +45,10 @@ OHSzirxn?KS19ruo=NUC+$U]hdp6UDxrT$.Jg&?#CxkEt8!Q>aIo*jaJ[OJqrE7H)=UorcgFDMW@9Ojn
 ## Hints
 
 - The first 5 characters of the message are `Salam`.
-- The length of the message is 272 characters.
+- The length of the message is **272 characters**.
 - The message was encrypted once and then encoded. After encrypting, the result was in binary.
-- The encoding used is a variant of Base85/Ascii85 that has an RFC.
+- The encoding used is a variant of **Base85/Ascii85** that has an RFC.
 - You'll need to use trial and error to decrypt the message. Once you figure out how to get the `Salam`, you should be able to decrypt the rest.
 - The algorithm used isn’t a known one like AES, it’s a custom one.
-- The text consists only of English letters and is in the standard ASCII range. 8 bytes are used per each character `(2176 / 272 = 8)`.
+- The text consists only of English letters and is in the standard ASCII range. **8 bytes** are used per each character `(2176 / 272 = 8)`.
 
